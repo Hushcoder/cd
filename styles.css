@@ -1,0 +1,121 @@
+body{
+    background-color:#DAF5FF ;
+    margin:0;
+    text-align: center;
+    position:relative;
+    padding-top:100px;
+    right:40px;
+    font-family: 'Merriweather', serif;
+    
+}
+.main{
+    position:relative;
+    bottom:10px;
+}
+.skills{
+    position:relative;
+    top:20px;
+}
+.profile{
+    position:relative;
+    top:20px;
+}
+h1{
+    color:black;
+    font-size: 30px;
+    position:relative;
+    top:20px;
+    font-family: 'Sacramento', sans-serif;
+   
+  
+}
+p{
+    margin:0;
+    position:relative;
+    top:20px;
+    font-family: 'Montserrat', cursive;
+
+}
+.img{
+    border-radius: 40%;
+}
+.im{
+    border:solid;
+    border-color:yellow;
+    border-radius: 100%;
+}
+.contact-me{
+    display:block;
+    position:relative;
+    bottom:20px;
+}
+.bottom-container{
+    position:relative;
+    bottom:20px;
+
+}
+.imh{
+    border: solid;
+    border-color: yellow;
+    border-radius: 100%;
+}
+.pro{
+    text-decoration: underline;
+}
+
+.top-cloud{
+    position:relative;
+    bottom:450px;
+    right:200px;
+
+}
+.bottom-cloud{
+    position:relative;
+    bottom:300px;
+    left:200px;
+
+
+}
+.mount{
+    position:relative;
+    left:40px;
+   
+
+}
+ /*body{
+    background-color:white;
+    margin:0px;
+    width:200px;
+    height:200px;
+}
+div{
+    width:200px;
+    height:200px;
+    background-color: #FA9884;
+    border:solid;
+    border-width:10px;
+    padding:20px;
+   
+}
+.middle-container{
+    width:200px;
+    height:200px;
+    background-color:red;
+    border:solid;
+    border-width:20px;
+    margin-left:259.2px;
+
+}
+.bottom-container{
+    background-color:yellow;
+    width:200px;
+    height:200px;
+    border:solid;
+    border-width:10px;
+    margin-left:538 .4px;
+ }
+ */
+
+
+
+
